@@ -5,3 +5,4 @@
 - Lớp: D18CNPM4
 
 ## Kết quả chạy 
+![Giao diện ứng dụng](./bai3.2.jpg)
